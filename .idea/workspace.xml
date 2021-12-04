@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10497caa-8242-4631-91f4-43c10fdb28fb" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/1105-LC36. Valid Sudoku.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/1204-LC26. Remove Duplicates from Sorted Array.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="10497caa-8242-4631-91f4-43c10fdb28fb" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
